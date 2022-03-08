@@ -6,3 +6,5 @@ There are two relevant files:
 
 - `gun-deaths.Rmd` - an R Markdown file containing a basic report on the `rcfss::gun_deaths` data frame
 - `gun-deaths.R` - an R script reproducing the same analysis as in the Rmd file
+
+Here's a new line.
